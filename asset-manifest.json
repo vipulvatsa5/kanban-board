@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/QuickSell-FrontendAssignment/static/css/main.5d3a9670.css",
-    "main.js": "/QuickSell-FrontendAssignment/static/js/main.bfa12176.js",
-    "static/js/453.f0f88b0d.chunk.js": "/QuickSell-FrontendAssignment/static/js/453.f0f88b0d.chunk.js",
-    "index.html": "/QuickSell-FrontendAssignment/index.html",
-    "main.5d3a9670.css.map": "/QuickSell-FrontendAssignment/static/css/main.5d3a9670.css.map",
-    "main.bfa12176.js.map": "/QuickSell-FrontendAssignment/static/js/main.bfa12176.js.map",
-    "453.f0f88b0d.chunk.js.map": "/QuickSell-FrontendAssignment/static/js/453.f0f88b0d.chunk.js.map"
+    "main.css": "/kanban-board/static/css/main.5d3a9670.css",
+    "main.js": "/kanban-board/static/js/main.084577cc.js",
+    "static/js/453.f0f88b0d.chunk.js": "/kanban-board/static/js/453.f0f88b0d.chunk.js",
+    "index.html": "/kanban-board/index.html",
+    "main.5d3a9670.css.map": "/kanban-board/static/css/main.5d3a9670.css.map",
+    "main.084577cc.js.map": "/kanban-board/static/js/main.084577cc.js.map",
+    "453.f0f88b0d.chunk.js.map": "/kanban-board/static/js/453.f0f88b0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d3a9670.css",
-    "static/js/main.bfa12176.js"
+    "static/js/main.084577cc.js"
   ]
 }
